@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raafey-Khan.github.io/fake-store-react/static/css/main.f917032e.css",
+    "main.js": "/Raafey-Khan.github.io/fake-store-react/static/js/main.3dc70252.js",
+    "static/js/787.855d4501.chunk.js": "/Raafey-Khan.github.io/fake-store-react/static/js/787.855d4501.chunk.js",
+    "index.html": "/Raafey-Khan.github.io/fake-store-react/index.html",
+    "main.f917032e.css.map": "/Raafey-Khan.github.io/fake-store-react/static/css/main.f917032e.css.map",
+    "main.3dc70252.js.map": "/Raafey-Khan.github.io/fake-store-react/static/js/main.3dc70252.js.map",
+    "787.855d4501.chunk.js.map": "/Raafey-Khan.github.io/fake-store-react/static/js/787.855d4501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f917032e.css",
+    "static/js/main.3dc70252.js"
+  ]
+}
